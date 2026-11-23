@@ -1,0 +1,6 @@
+kit/
+*-kit/
+*-kit-fresh/
+*.tar.gz
+node_modules/
+.DS_Store
